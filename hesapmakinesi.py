@@ -10,7 +10,7 @@ def Carp(x, y):
 def Bol(x, y):
    return x / y
  
-print("---TheRealR---")
+print("---Astpod---")
 print("1.Toplama")
 print("2.Çıkarma")
 print("3.Çarpma")
